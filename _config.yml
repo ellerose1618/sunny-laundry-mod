@@ -1,11 +1,13 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://sunny-day.co.nz
+# baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Sunny Laundry Delivery Service
+email: info@sunny-day.co.nz
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
+# theme_skin: agency-jekyll-theme
+remote_theme: agency-jekyll-theme
 
 # Team names, titles and social links
 people:
